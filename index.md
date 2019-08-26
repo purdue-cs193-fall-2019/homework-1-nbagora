@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Neel's First CS193 Homework
+
+- The student teachers are fun!
+- There's no exams or "quizzes"
+- It is not early in the morning.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
